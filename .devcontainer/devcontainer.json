@@ -28,7 +28,8 @@
 			"extensions": [
 				"ms-python.pylint",
 				"GitHub.copilot",
-				"ms-python.python"
+				"ms-python.python",
+				"ms-kubernetes-tools.vscode-kubernetes-tools"
 			]
 		}
 	},
